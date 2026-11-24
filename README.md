@@ -2,7 +2,7 @@
 
 # 🌑 Nyx Mods
 
-**A launcher hub and mod manager for Minecraft — with friends, chat, a modpack feed and a forum.**
+**One place for your games and their mods — with friends, chat, a modpack feed and a forum.**
 
 **English** · [Русский](README.ru.md)
 
@@ -18,11 +18,15 @@
 
 ## What is it
 
-Nyx Mods doesn't replace your launcher — it **finds it automatically** (official launcher, Legacy Launcher, TLauncher, Prism and more) and makes everything around it easier: mods, modpacks, versions, friends and chat. Hit «Play» and your launcher opens with the right version.
+Nyx Mods is a game platform for Windows: it finds the games and launchers you already have, manages their mods and modpacks, and connects you with friends. It doesn't replace your launchers — hit «Play» and the right one opens with the right version.
+
+**Minecraft: Java Edition is the first supported game** (official launcher, Legacy Launcher, TLauncher, Prism and more). **More games are on the way** — Nyx is built so new games plug into the same mods, modpacks, feed and community.
 
 ## Features
 
 ### 🎮 Games & mods
+> Available now for Minecraft; the same tools come to every new game.
+
 - **Auto-detects launchers** and every installed version — no account logins, no reading your passwords.
 - **One-click mod management**: enable, disable, drag & drop to add, delete to the Recycle Bin. Nyx warns you when a mod doesn't match your loader (Forge / Fabric / NeoForge / Quilt).
 - **Modrinth catalog** filtered to your version: installs with dependencies, every file verified by hash.
@@ -85,7 +89,7 @@ Right-click the icon near the clock → «Quit Nyx». Or turn off «Close to tra
 <details>
 <summary><b>Which games are supported?</b></summary>
 
-Minecraft: Java Edition for now. More games are planned.
+Minecraft: Java Edition is the first one. Nyx is a multi-game platform and new games are coming in the next updates — tell us which ones you want in **Forum → General**.
 </details>
 
 ## Found a bug or have an idea?
@@ -95,5 +99,5 @@ Open an [issue](https://github.com/zayr1k/nyxmods/issues) or post in **Forum →
 ---
 
 <div align="center">
-<sub>Nyx Mods is not affiliated with Mojang, Microsoft or Modrinth. Minecraft is a trademark of Mojang AB.</sub>
+<sub>Nyx Mods is not affiliated with the developers of the games it supports or with Modrinth. All trademarks belong to their owners.</sub>
 </div>
